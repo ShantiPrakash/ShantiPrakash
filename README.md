@@ -44,9 +44,9 @@ alt="sass" width="40" height="40" /> </a>
 <p>
 <img align="left"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=shantiprakash&show_icons=true&locale=en&layout=compact"
-alt="shantiprakash" /></p>
+alt="shantiprakash" />
+<br /><br /><br /><br /><br /><br />
 
-<p>
 <img align="center"
 src="https://github-readme-stats.vercel.app/api?username=shantiprakash&show_icons=true&theme=transparent"
 alt="shantiprakash" />
